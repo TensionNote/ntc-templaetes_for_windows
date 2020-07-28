@@ -1,0 +1,6 @@
+# exeption directory
+
+# exeption file
+config/*
+templates/*.textfsm
+templates/index
